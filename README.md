@@ -1,2 +1,7 @@
-# Afina_Wallet
- dioxus+ethers-rs creating a rust webview crypto wallet
+# Development
+
+Run the following command in the root of the project to start the Dioxus dev server:
+
+```bash
+dx serve --hot-reload --platform desktop
+```
